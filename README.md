@@ -80,6 +80,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller-vi/gaiceihehajjahakcglkhmdbbdclbnlf?hl=en) - Speed controller for HTML5 videos
 * [Buster: Captcha Solver for Humans](https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl) - helps you to solve difficult captchas
 * [Figma](https://chrome.google.com/webstore/detail/figma/fkmaohpngenfoccdgceedjkfhkdcohmg) - Make every brainstorm, project kick off, and critique a jam.
+* [Subwatch](https://subwatch.com) - Turn subscription chaos into financial harmony.
 ## Shopping
 ## Social and Communication
 * [WA Bulk Message Sender](https://chrome.google.com/webstore/detail/wa-bulk-message-sender/fhkimgpddcmnleeaicdjggpedegolbkb) - The most powerful WhatsApp sender, send WhatsApp bulk message without saving number.
